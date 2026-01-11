@@ -1,2 +1,2 @@
-# MyProject-Archive
-текущее состояние и локальные изменения
+My Project Archive
+This is the archive for my project managed by AILAN Archivist.
